@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\HP\Downloads\Black and Orange Modern Content Creation LinkedIn Banner.mp4" alt="Hi, I'm Chandrakanta Parida" width="100%" />
+  <img src="Black and Orange Modern Content Creation LinkedIn Banner.mp4" width="100%" />
 </p>
 
 # Hi 👋, I'm Chandrakanta Parida  
