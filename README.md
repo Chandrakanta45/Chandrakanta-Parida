@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="Black and Orange Modern Content Creation LinkedIn Banner.mp4" width="100%" />
+  <img src="Black and Orange Modern Content Creation LinkedIn Banner.png" alt="Banner" width="100%" />
 </p>
-
-# Hi 👋, I'm Chandrakanta Parida  
+<h1 align="center">Hi 👋, I'm Chandrakanta Parida</h1>
 🎯 A passionate *Data Scientist & Machine Learning Enthusiast* from India  
 
 💡 I enjoy turning data into meaningful insights using *Python, Machine Learning, and Deep Learning*  
